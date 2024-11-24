@@ -1,0 +1,101 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MinMaxFinder",
+      "request": "launch",
+      "mainClass": "MinMaxFinder",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "RecursiveBinarysearch",
+      "request": "launch",
+      "mainClass": "RecursiveBinarysearch",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "Prectice.hello",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "StackUsingArray",
+      "request": "launch",
+      "mainClass": "StackClass.StackUsingArray",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "ArrayReverseUsingStack",
+      "request": "launch",
+      "mainClass": "StackClass.ArrayReverseUsingStack",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "ArrayReverseUsingStack",
+      "request": "launch",
+      "mainClass": "ArrayReverseUsingStack",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "StackUsingArray",
+      "request": "launch",
+      "mainClass": "StackUsingArray",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "ReverseLL",
+      "request": "launch",
+      "mainClass": "ReverseLL",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "DLL",
+      "request": "launch",
+      "mainClass": "DLL",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "DoublyLinkedlist",
+      "request": "launch",
+      "mainClass": "DoublyLinkedlist",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "type": "java",
+      "name": "LList",
+      "request": "launch",
+      "mainClass": "LList",
+      "projectName": "Java_a7c07b7c"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "e:/Java",
+      "program": "e:/Java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
